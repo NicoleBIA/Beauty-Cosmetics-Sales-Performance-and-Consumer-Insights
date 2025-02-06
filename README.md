@@ -20,10 +20,14 @@ This project showcases a comprehensive Power BI analysis of beauty and cosmetics
 
 ## Screenshots
 
-![Customer Insights Dashboard](BCA_Screenshots/customer_insights_dashboard.png)
-![Average Price by Category Groups](BCA_Screenshots/average_price_by_category_groups.png)
-![Product Insights Visualization](BCA_Screenshots/product_insights_visualization.png)
+![Customer Insights Dashboard](customer_insights_dashboard.png)  
+*Customer Insights Dashboard - Focused on Customers*
 
+![Average Price by Category Groups](average_price_by_category_groups.png)  
+*Average Price by Category Groups - Focused on Price Segmentation*
+
+![Product Insights Visualization](product_insights_visualization.png)  
+*Product Insights - Focused on Products; groups and categories*
 
 ## Future Enhancements
 This project is part of a broader portfolio. Future phases will include:
