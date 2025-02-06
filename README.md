@@ -1,54 +1,33 @@
-<header>
+# Beauty & Cosmetics Sales Performance and Analytics Dashboard
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+## Description
+This project showcases a comprehensive Power BI analysis of beauty and cosmetics sales performance across various dimensions, including customer behavior, supplier performance, and regional trends. A key component of this project was the **creation and optimization of a dynamic data model** within Power BI, leveraging relational database concepts such as primary and foreign keys to establish meaningful relationships between tables. The project highlights advanced data transformation, interactive visualizations, and actionable insights tailored to decision-making in the beauty industry.
 
-# GitHub Pages
+## Tools and Skills Used
+- **Power BI**: For creating interactive visualizations, dashboards, and managing data models through table relationships (e.g., many-to-one, cross-filtering).
+- **SQL**: To create, manage, and query the dataset, including importing structured data into Power BI.
+- **Excel**: Advanced Pivot Tables, SUMIF calculations, and manual data cleansing to prepare and transform data for analysis.
+- **ETL Processes**: Extracting data from multiple sources, transforming it (cleaning, organizing, and restructuring for analysis), and loading it into Power BI.
+- **Relational Data Concepts**: Designing and optimizing table relationships to build a dynamic data model for seamless analysis.
+- **Data Analysis**: Identifying trends, patterns, and actionable insights through detailed exploratory analysis.
+- **Business Intelligence**: Presenting data-driven insights and recommendations to support strategic decision-making.
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+## Key Features
+- **Comprehensive Sales Analysis**: Insights into customer behavior, product performance, and revenue trends.
+- **Interactive Visualizations**: Dashboards with slicers, filters, and drill-down capabilities.
+- **Regional Performance Insights**: Geographical analysis of sales distribution.
+- **Product & Supplier Analysis**: Understanding brand performance, category-level trends, and supplier contributions.
 
-</header>
+## Screenshots
+(Screenshots of visualizations will be uploaded here.)
 
-<!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
--->
+## Future Enhancements
+This project is part of a broader portfolio. Future phases will include:
+- **Tableau**: Advanced visualizations and dashboards with the same dataset for comparative insights.
+- **R Programming**: Statistical analysis and visualization of larger beauty industry datasets.
+- **Expanded Dataset Analysis**: Incorporating additional months and product categories to provide deeper insights into trends and performance.
 
-## Step 1: Enable GitHub Pages
+## How to Use
+- Clone this repository to your local system.
+- Open the Power BI file to explore the visualizations and insights.
 
-_Welcome to GitHub Pages and Jekyll :tada:!_
-
-The first step is to enable GitHub Pages on this [repository](https://docs.github.com/en/get-started/quickstart/github-glossary#repository). When you enable GitHub Pages on a repository, GitHub takes the content that's on the main branch and publishes a website based on its contents.
-
-### :keyboard: Activity: Enable GitHub Pages
-
-1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
-1. Under your repository name, click **Settings**.
-1. Click **Pages** in the **Code and automation** section.
-1. Ensure "Deploy from a branch" is selected from the **Source** drop-down menu, and then select `main` from the **Branch** drop-down menu.
-1. Click the **Save** button.
-1. Wait about _one minute_ then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-   > Turning on GitHub Pages creates a deployment of your repository. GitHub Actions may take up to a minute to respond while waiting for the deployment. Future steps will be about 20 seconds; this step is slower.
-   > **Note**: In the **Pages** of **Settings**, the **Visit site** button will appear at the top. Click the button to see your GitHub Pages site.
-
-<footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
-
----
-
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
-
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
-</footer>
