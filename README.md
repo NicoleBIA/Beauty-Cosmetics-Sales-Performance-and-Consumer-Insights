@@ -19,11 +19,11 @@ This project showcases a comprehensive Power BI analysis of beauty and cosmetics
 - **Product & Supplier Analysis**: Understanding brand performance, category-level trends, and supplier contributions.
 
 ## Screenshots
-(Screenshots of visualizations will be uploaded here.)
 
 ![Customer Insights Dashboard](BCA_Screenshots/customer_insights_dashboard.png)
 ![Average Price by Category Groups](BCA_Screenshots/average_price_by_category_groups.png)
 ![Product Insights Visualization](BCA_Screenshots/product_insights_visualization.png)
+
 
 ## Future Enhancements
 This project is part of a broader portfolio. Future phases will include:
