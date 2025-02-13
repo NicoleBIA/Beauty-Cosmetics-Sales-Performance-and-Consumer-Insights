@@ -3,12 +3,6 @@
 ## Description
 This project showcases a comprehensive Power BI analysis of beauty and cosmetics sales performance across various dimensions, including customer behavior, supplier performance, and regional trends. The dataset used in this project is **simulated and fictitious**, crafted to reflect real-world brands, products, and categories for illustrative and educational purposes. A key component of this project was the creation and optimization of a dynamic data model within Power BI, leveraging relational database concepts such as primary and foreign keys to establish meaningful relationships between tables. The project highlights advanced data transformation, interactive visualizations, and actionable insights tailored to decision-making in the beauty industry.
 
-## 📊 Interactive Power BI Dashboard  
-
-🔗 [Click here to explore the Beauty & Cosmetics Sales Performance Dashboard](https://app.powerbi.com/reportEmbed?reportId=bb04867b-71a3-452d-b0d0-17dd26ab41f0&autoAuth=true&ctid=c6ded65b-d100-4e6f-addf-4bda63f86017)
-
-This interactive Power BI report provides insights into beauty and cosmetics sales trends, customer segmentation, supplier performance, and inventory insights.
-
 ## Tools and Skills Used
 - **Power BI**: For creating interactive visualizations, dashboards, and managing data models through table relationships (e.g., many-to-one, cross-filtering).
 - **SQL**: To create, manage, and query the dataset, including importing structured data into Power BI.
@@ -23,6 +17,12 @@ This interactive Power BI report provides insights into beauty and cosmetics sal
 - **Interactive Visualizations**: Dashboards with slicers, filters, and drill-down capabilities.
 - **Regional Performance Insights**: Geographical analysis of sales distribution.
 - **Product & Supplier Analysis**: Understanding brand performance, category-level trends, and supplier contributions.
+
+## 📊 Interactive Power BI Dashboard  
+
+🔗 [Click here to explore the Beauty & Cosmetics Sales Performance Dashboard](https://app.powerbi.com/reportEmbed?reportId=bb04867b-71a3-452d-b0d0-17dd26ab41f0&autoAuth=true&ctid=c6ded65b-d100-4e6f-addf-4bda63f86017)
+
+This interactive Power BI report provides insights into beauty and cosmetics sales trends, customer segmentation, supplier performance, and inventory insights.
 
 ## Screenshots
 
