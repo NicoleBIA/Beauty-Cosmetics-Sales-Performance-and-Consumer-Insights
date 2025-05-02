@@ -1,4 +1,4 @@
-# Getting to Know Nicole
+# 🟪 Getting to Know Nicole
 
 **Nicole Reaves | Strategic Business Intelligence Studio**  
 Designing insight systems that guide smarter business decisions and reveal unseen opportunity.
