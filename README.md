@@ -3,14 +3,18 @@
 ## Description
 This project showcases a comprehensive Power BI analysis of beauty and cosmetics sales performance across various dimensions, including customer behavior, supplier performance, and regional trends. The dataset used in this project is **simulated and fictitious**, crafted to reflect real-world brands, products, and categories for illustrative and educational purposes. A key component of this project was the creation and optimization of a dynamic data model within Power BI, leveraging relational database concepts such as primary and foreign keys to establish meaningful relationships between tables. The project highlights advanced data transformation, interactive visualizations, and actionable insights tailored to decision-making in the beauty industry.
 
-## Tools and Skills Used
-- **Power BI**: For creating interactive visualizations, dashboards, and managing data models through table relationships (e.g., many-to-one, cross-filtering).
-- **SQL**: To create, manage, and query the dataset, including importing structured data into Power BI.
-- **Excel**: Advanced Pivot Tables, SUMIF calculations, and manual data cleansing for ETL processes.
-- **ETL Process**: Extracting data from multiple sources, transforming it (cleaning, organizing, and restructuring for analysis), and loading it into Power BI.
-- **Data Analysis**: Understanding trends, identifying actionable insights, and conducting exploratory analysis.
-- **Relational Data Concepts**: Designing and optimizing table relationships for seamless analysis.
-- **Business Intelligence**: Presenting data-driven insights and recommendations tailored to the beauty industry.
+## Tools, Techniques, and Analytical Logic Used
+
+- **Power BI**: Developed the full dashboard using custom visuals, slicers, tooltip layers, DAX-based cards, and interactive filters.
+- **SQL (SSMS)**: Used for structuring tables, creating customer spend metrics, and prepping the dataset for import.
+- **Excel**: Used for ETL cleanup, category grouping logic, and modeling `Customer Segmentation by Tier`.
+- **ETL Workflow**: Structured raw data across products, orders, suppliers, and customers for seamless relational modeling.
+- **Data Model Relationships**: Connected dimension and fact tables through one-to-many relationships across orders, customers, inventory, and suppliers.
+- **Customer Segmentation Table**: Created to segment by spend tiers (High, Medium, Low); used to power visual filters and insights.
+- **Customer Spend Behavior Analysis**: Built using `Total Order Value`, `Average Order Value`, and purchase frequency logic.
+- **Price Tiering Analysis**: Compared pricing bands across prestige and drugstore brands for pricing strategy modeling.
+- **Inventory & Supplier Dependency Metrics**: Visualized inventory concentration and supplier contributions to model risk exposure.
+
 
 ## Key Features
 - **Comprehensive Sales Analysis**: Insights into customer behavior, product performance, and revenue trends.
