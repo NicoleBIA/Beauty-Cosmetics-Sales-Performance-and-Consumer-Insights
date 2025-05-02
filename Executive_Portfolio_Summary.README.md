@@ -1,5 +1,6 @@
 # 💄 Beauty & Cosmetics Sales Performance Report  
 **Power BI Business Intelligence Dashboard Summary | January 2025**
+[View Full Report Here](./Beauty_Cosmetics_PowerBI_Report/Beauty_Cosmetics_Sales_Performance_Analysis_Report.pdf)
 
 This interactive Power BI dashboard delivers a real-world simulation of sales performance in the beauty and cosmetics industry. It offers a data-driven lens into customer behavior, product performance, pricing strategy, supplier dependency, and regional revenue distribution for the month of **January 2025**.
 
@@ -58,30 +59,30 @@ Although based on simulated data, the structure, KPIs, and analytical flow refle
 - **Drugstore brands** average price: **$13.27**  
 - **Urban Decay** was the highest-priced brand ($49.99 avg), nearly 4x higher than CoverGirl ($9.82)
 
- **Insight:** Pricing tiers reveal distinct consumer targets. Consider dynamic pricing and promotional strategies to bridge or amplify this gap depending on audience.
+🟢 **Insight:** Pricing tiers reveal distinct consumer targets. Consider dynamic pricing and promotional strategies to bridge or amplify this gap depending on audience.
 
 ---
 
-### 🟩 B2B vs. B2C Channel Analysis
+### 🟦 B2B vs. B2C Channel Analysis
 - **B2C:** $1,776 in revenue from 70 units  
 - **B2B:** $808.6 from 42 units  
 - Top B2B buyers included **Target, Sephora, Walmart, Ulta, and Nordstrom**
 
- **Growth Potential:** Expand B2B relationships and increase order frequency with repeat buyers.
+🟢 **Growth Potential:** Expand B2B relationships and increase order frequency with repeat buyers.
 
 ---
 
-### 🟦 Supplier & Inventory Optimization
+### 🟪 Supplier & Inventory Optimization
 - **Beauty World** led with 18 products supplied across just two orders  
 - **46% of inventory** came from only three suppliers—creating dependency risk  
 - **Top-stocked products**: Colossal Mascara, Pro Glow Foundation, TruNaked Eyeshadow  
 - **Low-stock alerts**: Naked Highlighter, Peach Blush, and select Fenty SKUs
 
-🟨 **Strategic Risk:** Inventory and fulfillment depend on a few suppliers—consider diversification and safety stock thresholds.
+🟡 **Strategic Risk:** Inventory and fulfillment depend on a few suppliers—consider diversification and safety stock thresholds.
 
 ---
 
-## 🟪 Key Business Recommendations
+## 🟩 Key Business Recommendations
 
 1. **Double down on high-performing SKUs**: Allocate promo budgets to Eyeshadow and Lipstick products.
 2. **Upsell medium spenders** through loyalty programs and personalized offers.
