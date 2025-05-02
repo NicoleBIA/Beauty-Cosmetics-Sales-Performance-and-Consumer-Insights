@@ -1,7 +1,12 @@
 # Beauty & Cosmetics Sales Performance and Analytics Dashboard
 
 ## Description
-This project showcases a comprehensive Power BI analysis of beauty and cosmetics sales performance across various dimensions, including customer behavior, supplier performance, and regional trends. The dataset used in this project is **simulated and fictitious**, crafted to reflect real-world brands, products, and categories for illustrative and educational purposes. A key component of this project was the creation and optimization of a dynamic data model within Power BI, leveraging relational database concepts such as primary and foreign keys to establish meaningful relationships between tables. The project highlights advanced data transformation, interactive visualizations, and actionable insights tailored to decision-making in the beauty industry.
+
+This project presents a comprehensive Power BI analysis of beauty and cosmetics sales performance across multiple dimensions, including customer behavior, supplier performance, pricing trends, and regional sales distribution. Built on a **simulated dataset**, it reflects real-world brands, categories, and customer dynamics—designed to simulate retail analytics conditions and showcase end-to-end **business intelligence strategy development**.
+
+A core component of this project was the creation of a dynamic relational data model in Power BI, using fact-dimension relationships to enable segmentation, inventory optimization, and strategic insight generation. This project was developed as part of a broader portfolio to demonstrate BI skill sets, analytical storytelling, and decision-ready reporting frameworks.
+
+---
 
 ## Tools, Techniques, and Analytical Logic Used
 
