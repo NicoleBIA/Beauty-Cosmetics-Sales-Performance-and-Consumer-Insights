@@ -40,7 +40,7 @@ Although based on simulated data, the structure, KPIs, and analytical flow refle
 - **Medium (40%) and low spenders (27%)** offer room for growth via loyalty incentives and promotions  
 - **South region** had the largest customer base (36%); **East** had the fewest customers and no B2B accounts
 
- **Opportunity:** Grow share in low-volume regions and convert medium spenders through loyalty programs or bundled deals.
+🟢 **Opportunity:** Grow share in low-volume regions and convert medium spenders through loyalty programs or bundled deals.
 
 ---
 
@@ -49,11 +49,11 @@ Although based on simulated data, the structure, KPIs, and analytical flow refle
 - **Fenty Beauty** dominated the Lip category, accounting for 25% of product revenue  
 - High-revenue products like Urban Decay's Eyeshadow Palette showed **low volume, high value** outlier behavior
 
- **Actionable Takeaway:** Prioritize top performers for seasonal promotions and bundling; reevaluate underperformers like Glossy Lip Balm or Hydrating Primer.
+🟢 **Actionable Takeaway:** Prioritize top performers for seasonal promotions and bundling; reevaluate underperformers like Glossy Lip Balm or Hydrating Primer.
 
 ---
 
-### 🟩 Pricing Strategy: Prestige vs. Drugstore Brands
+### 🟪 Pricing Strategy: Prestige vs. Drugstore Brands
 - **Prestige brands** average price: **$28.64**  
 - **Drugstore brands** average price: **$13.27**  
 - **Urban Decay** was the highest-priced brand ($49.99 avg), nearly 4x higher than CoverGirl ($9.82)
@@ -62,7 +62,7 @@ Although based on simulated data, the structure, KPIs, and analytical flow refle
 
 ---
 
-### 🧾 B2B vs. B2C Channel Analysis
+### 🟩 B2B vs. B2C Channel Analysis
 - **B2C:** $1,776 in revenue from 70 units  
 - **B2B:** $808.6 from 42 units  
 - Top B2B buyers included **Target, Sephora, Walmart, Ulta, and Nordstrom**
