@@ -32,3 +32,13 @@ I also have specialized skills training in:
 - Advanced Data Visualization
 - SQL SSMS
 - Strategic Project Management Fundamentals
+- Project Management
+- Process Mapping
+
+I have a diverse educational background consisting of:
+- Bachelor of Arts degree in Communication
+- Master of Science dehree in Management specializing in International Business
+- Five years of Doctoral Studies in Industrial Organizational Psychology
+  > While I didn’t complete the program for personal reasons, I’m incredibly grateful for the depth of learning I gained during those five years. It built a strong foundation I still draw from today—especially in areas like quantitative and qualitative analysis, consumer psychology, and behavioral economics.
+
+  ---
