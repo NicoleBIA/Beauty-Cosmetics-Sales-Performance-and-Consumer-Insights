@@ -20,7 +20,7 @@ This project showcases a comprehensive Power BI analysis of beauty and cosmetics
 
 ## 📊 Interactive Power BI Dashboard  
 
-🔗 [Click here to explore the Beauty & Cosmetics Sales Performance Dashboard](https://app.powerbi.com/reportEmbed?reportId=bb04867b-71a3-452d-b0d0-17dd26ab41f0&autoAuth=true&ctid=c6ded65b-d100-4e6f-addf-4bda63f86017)
+🔗 [Click here to explore the Beauty & Cosmetics Sales Performance Dashboard](Beauty_Cosmetics_Sales_Performance_Analysis Report.pdf)
 
 This interactive Power BI report provides insights into beauty and cosmetics sales trends, customer segmentation, supplier performance, and inventory insights.
 
