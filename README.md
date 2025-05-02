@@ -22,6 +22,23 @@ This project showcases a comprehensive Power BI analysis of beauty and cosmetics
 - **Regional Performance Insights**: Geographical analysis of sales distribution.
 - **Product & Supplier Analysis**: Understanding brand performance, category-level trends, and supplier contributions.
 
+---
+## 📐 Report Design Features & Iterative BI Development
+
+This Power BI dashboard was developed using an **iterative business intelligence design approach**, treating the report as a living product. Design features include:
+
+- An **Introductory Overview Page** to orient users
+- A **Dashboard Navigation Panel** for seamless page flow
+- A **Story Page** to showcase narrative-driven insights
+- A dedicated **Insights & Recommendations section**
+- A final **Conclusion & Strategic Growth View**
+
+These components simulate a polished, client-facing reporting experience while guiding the end user through insight discovery.
+
+🔁 *Note on Cross-Platform Differences*: This report takes advantage of Power BI's flexible text-based layout options. In Tableau, where blank narrative pages are not native, similar layouts may use text boxes on blank dashboards. Each report iteration adapts to the platform’s strengths while remaining consistent in its strategic structure.
+
+---
+
 ## 📊 Interactive Power BI Dashboard  
 
 [📎 View the Full Strategic Business Intelligence Report (PDF)](./Beauty_Cosmetics_PowerBI_Report/Beauty_Cosmetics_Sales_Performance_Analysis_Report.pdf)
