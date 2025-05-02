@@ -20,6 +20,7 @@ A core component of this project was the creation of a dynamic relational data m
 - **Price Tiering Analysis**: Compared pricing bands across prestige and drugstore brands for pricing strategy modeling.
 - **Inventory & Supplier Dependency Metrics**: Visualized inventory concentration and supplier contributions to model risk exposure.
 
+---
 
 ## Key Features
 - **Comprehensive Sales Analysis**: Insights into customer behavior, product performance, and revenue trends.
@@ -28,7 +29,8 @@ A core component of this project was the creation of a dynamic relational data m
 - **Product & Supplier Analysis**: Understanding brand performance, category-level trends, and supplier contributions.
 
 ---
-## 📐 Report Design Features & Iterative BI Development
+
+## 🟪 Report Design Features & Iterative BI Development
 
 This Power BI dashboard was developed using an **iterative business intelligence design approach**, treating the report as a living product. Design features include:
 
@@ -40,11 +42,11 @@ This Power BI dashboard was developed using an **iterative business intelligence
 
 These components simulate a polished, client-facing reporting experience while guiding the end user through insight discovery.
 
-🔁 *Note on Cross-Platform Differences*: This report takes advantage of Power BI's flexible text-based layout options. In Tableau, where blank narrative pages are not native, similar layouts may use text boxes on blank dashboards. Each report iteration adapts to the platform’s strengths while remaining consistent in its strategic structure.
+🟦 *Note on Cross-Platform Differences*: This report takes advantage of Power BI's flexible text-based layout options. In Tableau, where blank narrative pages are not native, similar layouts may use text boxes on blank dashboards. Each report iteration adapts to the platform’s strengths while remaining consistent in its strategic structure.
 
 ---
 
-## 📊 Interactive Power BI Dashboard  
+## 🟩 Interactive Power BI Dashboard  
 
 [📎 View the Full Strategic Business Intelligence Report (PDF)](./Beauty_Cosmetics_PowerBI_Report/Beauty_Cosmetics_Sales_Performance_Analysis_Report.pdf)
 
