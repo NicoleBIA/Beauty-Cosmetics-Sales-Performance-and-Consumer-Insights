@@ -1,6 +1,6 @@
 # Beauty & Cosmetics Sales Performance Report  
 
-![Report Cover](../images/Beauty_Cosmetics_Performance_Cover.png)
+![Report Cover](Beauty_Cosmetics_PowerBI_Report/images/Beauty_Cosmetics_Performance_Cover.png)
 **Power BI Business Intelligence Dashboard Summary | January 2025**
 [View Full Report Here](Beauty_Cosmetics_PowerBI_Report/Beauty_Cosmetics_Sales_Performance_Analysis_Report.pdf)
 
