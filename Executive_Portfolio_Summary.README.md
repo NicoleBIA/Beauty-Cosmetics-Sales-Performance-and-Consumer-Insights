@@ -2,7 +2,7 @@
 
 ![Report Cover](../images/Beauty_Cosmetics_Performance_Cover.png)
 **Power BI Business Intelligence Dashboard Summary | January 2025**
-[View Full Report Here](/./Beauty_Cosmetics_PowerBI_Report/Beauty_Cosmetics_Sales_Performance_Analysis_Report.pdf)
+[View Full Report Here](.././Beauty_Cosmetics_PowerBI_Report/Beauty_Cosmetics_Sales_Performance_Analysis_Report.pdf)
 
 This interactive Power BI dashboard delivers a real-world simulation of sales performance in the beauty and cosmetics industry. It offers a data-driven lens into customer behavior, product performance, pricing strategy, supplier dependency, and regional revenue distribution for the month of **January 2025**.
 
